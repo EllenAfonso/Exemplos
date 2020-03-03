@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+						<cliente>
+							<codigo>1</codigo>
+							<nome>João</nome>
+							<email>Joao@gmail.com</email>
+							<telefone>9999-9999</telefone>
+							<data>2020-02-13</data>
+							<hora>15:30</hora>
+						</cliente>
+					</clientes>
